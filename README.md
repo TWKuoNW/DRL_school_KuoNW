@@ -3,6 +3,8 @@
 ## Overview
 This repository contains a modern, single-page personal web dashboard created to display the name "KuoNW" alongside a live clock and current date. The project is designed with a premium, sleek aesthetic.
 
+**Demo:** [https://twkuonw.github.io/DRL_school_KuoNW/](https://twkuonw.github.io/DRL_school_KuoNW/)
+
 ![Dashboard Preview](screenshot.png)
 
 ## Features Developed Today (Feb 26, 2026)
