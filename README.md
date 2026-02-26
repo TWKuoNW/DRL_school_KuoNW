@@ -5,7 +5,7 @@ This repository contains a modern, single-page personal web dashboard created to
 
 **Demo:** [https://twkuonw.github.io/DRL_school_KuoNW/](https://twkuonw.github.io/DRL_school_KuoNW/)
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](index_page.png)
 
 ## Features Developed Today (Feb 26, 2026)
 - **Single-Page Web App (`index.html`)**: Created from scratch using HTML, CSS, and Vanilla JavaScript.
