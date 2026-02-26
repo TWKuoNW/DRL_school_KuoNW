@@ -3,6 +3,8 @@
 ## Overview
 This repository contains a modern, single-page personal web dashboard created to display the name "KuoNW" alongside a live clock and current date. The project is designed with a premium, sleek aesthetic.
 
+![Dashboard Preview](screenshot.png)
+
 ## Features Developed Today (Feb 26, 2026)
 - **Single-Page Web App (`index.html`)**: Created from scratch using HTML, CSS, and Vanilla JavaScript.
 - **Modern Aesthetics**:
